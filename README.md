@@ -1,2 +1,26 @@
-# web-lib
-web开发常用类库
+## web--lib ##
+1. jquery-easyui
+2. adminLTE
+3. angularjs
+4. animate.css
+5. artTemplate
+6. avalon-template
+7. bootstrap
+8. font-awesome
+9. html5shiv
+10. impress.js
+11. iscroll
+12. jquery-mobile
+13. jquery-color
+14. jquery-File-upload
+15. jquery-ui
+16. json
+17. less
+18. mui
+19. normalize.css
+20. respond
+21. swiper
+22. video.js
+23. vue
+24. weui
+25. zepto
